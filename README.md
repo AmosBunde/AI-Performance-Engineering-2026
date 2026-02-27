@@ -13,7 +13,8 @@ A FastAPI service that accepts a GitHub repository URL and returns a human-reada
 ### 1. Clone / unzip the project
 
 ```bash
-cd github-summarizer   # or wherever you extracted the files
+git clone https://github.com/AmosBunde/AI-Performance-Engineering-2026.git
+cd  AI-Performance-Engineering-2026/ # or wherever you extracted the files
 ```
 
 ### 2. Create a virtual environment
