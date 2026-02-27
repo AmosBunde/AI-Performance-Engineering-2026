@@ -20,8 +20,8 @@ cd  AI-Performance-Engineering-2026/ # or wherever you extracted the files
 ### 2. Create a virtual environment
 
 ```bash
-python -m venv .venv
-source .venv/bin/activate   # Windows: .venv\Scripts\activate
+python -m venv .summarizer
+source .summarizer/bin/activate   # Windows: .venv\Scripts\activate
 ```
 
 ### 3. Install dependencies
